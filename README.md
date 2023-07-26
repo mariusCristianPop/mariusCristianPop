@@ -1,8 +1,48 @@
-### Hi there 👋
+# 👋 Marius Cristian Pop
 
-- 🔭 I’m currently working on level up my analytical thinking and programming skills
-- 🌱 I’m currently learning MERN technology stack
-- 👯 I’m looking to collaborate on projects that improve life quality
-- 💬 Ask me anything
-- 📫 How to reach me: [Let's connect on LinkedIn](https://www.linkedin.com/in/mariuscristian)
-- ⚡ Fun fact: "In the time it took for you to read this sentence, around 50,000 cells in your body died and were replaced by new ones."
+Hello! I'm Marius, a motivated professional with a unique blend of programming, automation, and management skills. With a passion for problem-solving, I enjoy tackling complex challenges, whether they're algorithmic problems or industrial automation tasks. I am open to exciting opportunities and continually eager to learn and improve.
+
+## 🎓 Education
+
+- **ITFactory** (2023-Present): Learning Manual and Automated Testing
+
+- **WellCode** (2020-2021): Participated in an online mentorship program that honed my logical thinking through solving over 150 algorithmic and data structure problems. Gained familiarity with Object-Oriented Programming (OOP) through practical application in C++, Java, and JavaScript.
+
+- **B&R Industrial Automation GmbH, Eggelsberg, Austria** (October - November 2014): Over a two-week practical course, I was introduced to the industrial automation world. I learned how to program a PLC using digital I/O signals with Automation Studio.
+
+## 💼 Skills
+
+### 💻 Technical Skills:
+- **Algorithms and Data Structures**: Beginner level proficiency.
+- **Object-Oriented Programming (OOP)**: Beginner level proficiency in C++, Java, and JavaScript.
+- **JavaScript & Node.js**: Beginner level proficiency.
+- **SQL**: Beginner level proficiency.
+- **PLC Programming**: Experience with Automation Studio.
+- **Hardware and Software Debugging**: Advanced skills, particularly in the context of IoT and industrial equipment.
+- **Git**: Proficiency in version control.
+
+### 🤝 Soft Skills:
+- **Analytical Thinking**: I bring a problem-solving mindset to all projects I am involved in.
+- **Adaptability**: Proven ability to apply skills in various contexts, from programming puzzles to industrial automation.
+- **Communication**: Experience in customer support roles, handling queries, and project specific problem-solving.
+- **Leadership**: Served as a management assistant and a technical support lead in multiple projects.
+
+## 🛠 Projects
+
+Here are some of the projects I've worked on:
+
+1. **[Pastebin Clone](https://github.com/mariusCristianPop/Pastebin-Clone-Express-Node-JS)**: A replica of the well-known Pastebin website.
+2. **[Minesweeper](https://github.com/mariusCristianPop/Minesweeper-js/)**: A single-player puzzle game.
+3. **[Tic-Tac-Toe](https://github.com/mariusCristianPop/TicTacToe-Js)**: An implementation of the classic game.
+4. **[Hangman](https://github.com/mariusCristianPop/Hangman-js)**: A fun, interactive guessing game.
+5. **Vending Machine Prototype**: Involved in hardware sourcing and software development operations for a strawberry-selling vending machine prototype.
+6. **ERP System**: Assisted in the development, maintenance, and operation of a custom-built ERP system.
+
+## 🏆 Achievements
+- Youngest student chosen to represent my college in an international exchange program at East Valley Institute of Technology, Arizona, USA, sponsored by the Ratiu Family Foundation.
+- Board member of VendingRobotics, a company that sells customized automated vending solutions.
+
+Please feel free to reach out if you have any questions or opportunities!
+
+## 📫 Contact Me
+- LinkedIn: [https://www.linkedin.com/in/mariuscristian]
