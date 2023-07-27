@@ -31,12 +31,14 @@ Hello! I'm Marius, a motivated professional with a unique blend of programming, 
 
 Here are some of the projects I've worked on:
 
-1. **[Pastebin Clone](https://github.com/mariusCristianPop/Pastebin-Clone-Express-Node-JS)**: A replica of the well-known Pastebin website.
-2. **[Minesweeper](https://github.com/mariusCristianPop/Minesweeper-js/)**: A single-player puzzle game.
-3. **[Tic-Tac-Toe](https://github.com/mariusCristianPop/TicTacToe-Js)**: An implementation of the classic game.
-4. **[Hangman](https://github.com/mariusCristianPop/Hangman-js)**: A fun, interactive guessing game.
-5. **Vending Machine Prototype**: Involved in hardware sourcing and software development operations for a strawberry-selling vending machine prototype.
-6. **ERP System**: Assisted in the development, maintenance, and operation of a custom-built ERP system.
+1. **Pastebin clone - A basic replica of the well-known Pastebin website.**
+   - Express and NodeJS: [Source code](https://github.com/mariusCristianPop/Pastebin-Clone-Express-Node-JS)
+   - ReactJS: [Soruce code](https://github.com/mariusCristianPop/pastebin-clone-reactjs) or [Live demo](https://mariuscristianpop.github.io/pastebin-clone-reactjs/) 
+3. **[Minesweeper](https://github.com/mariusCristianPop/Minesweeper-js/)**: A single-player puzzle game.
+4. **[Tic-Tac-Toe](https://github.com/mariusCristianPop/TicTacToe-Js)**: An implementation of the classic game.
+5. **[Hangman](https://github.com/mariusCristianPop/Hangman-js)**: A fun, interactive guessing game.
+6. **Vending Machine Prototype**: Involved in hardware sourcing and software development operations for a strawberry-selling vending machine prototype.
+7. **ERP System**: Assisted in the development, maintenance, and operation of a custom-built ERP system.
 
 ## 🏆 Achievements
 - Youngest student chosen to represent my college in an international exchange program at East Valley Institute of Technology, Arizona, USA, sponsored by the Ratiu Family Foundation.
