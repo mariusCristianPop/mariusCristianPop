@@ -33,7 +33,8 @@ Here are some of the projects I've worked on:
 
 1. **Pastebin clone - A basic replica of the well-known Pastebin website.**
    - Express and NodeJS: [Source code](https://github.com/mariusCristianPop/Pastebin-Clone-Express-Node-JS)
-   - ReactJS: [Soruce code](https://github.com/mariusCristianPop/pastebin-clone-reactjs) or [Live demo](https://mariuscristianpop.github.io/pastebin-clone-reactjs/) 
+2. Dictionary - A sample dictionary app written in ReactJS
+   - [Soruce code](https://github.com/mariusCristianPop/pastebin-clone-reactjs) or [Live demo](https://mariuscristianpop.github.io/pastebin-clone-reactjs/) 
 3. **[Minesweeper](https://github.com/mariusCristianPop/Minesweeper-js/)**: A single-player puzzle game.
 4. **[Tic-Tac-Toe](https://github.com/mariusCristianPop/TicTacToe-Js)**: An implementation of the classic game.
 5. **[Hangman](https://github.com/mariusCristianPop/Hangman-js)**: A fun, interactive guessing game.
