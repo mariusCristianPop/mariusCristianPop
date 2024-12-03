@@ -4,7 +4,7 @@ Hello! I'm Marius, a motivated professional with a unique blend of programming, 
 
 ## 🎓 Education
 
-- **ITFactory** (2023-Present): Learning Manual and Automated Software Testing
+- **ITFactory** (2023): Learning Manual and Automated Software Testing
 
 - **WellCode** (2020-2021): Participated in an online mentorship program that honed my logical thinking through solving over 150 algorithmic and data structure problems. Gained familiarity with Object-Oriented Programming (OOP) through practical application in C++, Java, and JavaScript.
 
