@@ -14,7 +14,7 @@ Hello! I'm Marius, a motivated professional with a unique blend of programming, 
 
 ### 💻 Technical Skills:
 - **Algorithms and Data Structures**: Beginner level proficiency.
-- **Object-Oriented Programming (OOP)**: Beginner level proficiency in C++, Java, and JavaScript.
+- **Object-Oriented Programming (OOP)**: Beginner level proficiency in Python and JavaScript.
 - **JavaScript & Node.js**: Beginner level proficiency.
 - **SQL**: Beginner level proficiency.
 - **PLC Programming**: Experience with Automation Studio.
